@@ -1,0 +1,25 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“My goodness, what a beautiful stone!”
+C:[[]]
+Anastasia quickly takes the stone from your generous hands and begins holding it up in the night air.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“Do you see how it takes in the moonlight? It almost seems as though it is glowing.”
+“It’s so very pretty. Thank you, [[player]].”
+C:[[]]
+Anastasia seems enamored by your light-absorbing gift.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“Come to think of it, don’t humans value stones similar to this one? For jewelry and the like?”
+C:[[]]
+You tell Anastasia that precious stones are incredibly prevalent among your kind—to the point that most jewelry has become flashy and hard to look at directly.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“Is that so? It is the same throughout my culture.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“The majority of broaches and pendants seem to lack a certain subtlety, even when no light shines upon them. Instead, their gaudiness becomes the center of attention.”
+“There is, however, one piece of vampiric jewelry that is quite useful, in addition to being pleasant on the eyes.”
+“Have you ever seen an Umbral Locket? It is an especially fascinating item. You see...”
+T:[["ana_neutral"]]

@@ -1,0 +1,48 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy_blush")]]
+“I feel that I can trust you, [[player]].”
+C:[[]]
+Anastasia finishes entering the combination and opens her locker. 
+You see that the array of plushies you saw that day was only the tip of the iceberg. 
+Not only are there more than you initially thought, but they are each set up in their own proper spots, rather than haphazardly stuffed into the locker.
+You can tell that these plushies are more than just cute decorations or objects to Anastasia—they’re her children, in a sense.
+And Anastasia is more than a collector—she is a caretaker. She is a caretaker for each and every one of them.
+Anastasia starts carefully taking them out to show you. You can’t help but sport a gentle smile at the sight throughout the process.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“This one is based on the porcupine species from your homeworld, [[player]]. I named him Spines. He’s one of my favorites.”
+“You may recognize this one based on our very own Principal Harkness. They sell them in the school store. It may sound strange, but he is quite cute, isn’t he?”
+“And this turtle is Shelldon, although I sometimes call him ‘Shellzy.’ He’s quite shy, and tends to hide in his shell when he’s scared or embarrassed.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral_blush")]]
+“I’m certain that sounds familiar, doesn’t it, [[player]]?”
+C:[[]]
+Once again, a brief pause. Although, this time is different. There is no tension, nor discomfort as there were during the previous instances.
+Anastasia looks at Shelldon, then at you, then back at Shelldon. Then she seems to ponder something.
+Finally, Anastasia holds out Shelldon to you.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy_blush")]]
+“Here.”
+C:[[]]
+You question Anastasia’s action. Is she sure about this? 
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy_blush")]]
+“You helped me understand something important about myself tonight: I can no longer be so afraid and unsure.”
+“The clouds that surround my confidence are parting. I need this Umbral Locket to walk alongside the sun’s rays. However...”
+“...from this point forward, I needn’t be afraid to walk in the light.”
+“And I have you to thank for that, [[player]]. So, please, take good care of Shellzy.”
+C:[[]]
+How can you say no to such a sincere request?
+You reach out to take Shelldon, when...
+...your hands accidentally touch Anastasia’s open palms.
+*:ex:[[showImage("ana/Anastasia_surprise_blush")]]
+C:[[]]
+You blush, just as Anastasia does. However, a fuzzy feeling inside is not all that you encounter. 
+You feel a warmth emanating from Anastasia’s palms, undead as they may be.
+C:[[]]
+*:ex:[[showImage("ana/Anastasia_happy_blush")]]
+You get a feeling that you’ve never gotten before, and you understand, somehow, that this feeling is mutual. 
+A new bond—an uncertain, yet comfortable bond—is beginning to form, and it could lead just about anywhere.
+The sky’s the limit, and maybe Anastasia’s wings can take you both there...
+*:ex:[[medal(67996); hideUI(); hideImage(); pause(9); doubleFade("bg/white", "endcards/Ana_Endcard", 2, 0.5, 2)]]
+...

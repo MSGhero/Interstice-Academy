@@ -1,0 +1,29 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“Ah, some chocolate pudding. I recall hearing that such a substance is popular on Valentine’s Day. What a fitting gift for the occasion. Thank you, [[player]].”
+C:[[]]
+Anastasia looks down at the cup of pudding, then realizes that something important is missing.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“Did you happen to bring a spoon?”
+C:[[]]
+...shoot.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“I suppose it is a tad humorous. So much for this midnight snack!”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“Do not fret about it, [[player]]. I appreciate the thought, nonetheless. How about we consider this a trade? It’s only fair, after all.”
+C:[[]]
+Anastasia pulls out a snack that she brought: a small salad in a decorative container. She then hands it to you.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“However, I must keep this utensil to myself.”
+C:[[]]
+Anastasia shows you a plastic fork, holding it just out of your reach.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy_blush")]]
+“As I said: it’s only fair.”
+C:[[]]
+The two of you share innocent laughter at each other's expense. You can’t help but notice how  Anastasia has come out of her shell a fair bit since earlier that day.
+T:[["ana_neutral"]]

@@ -1,0 +1,30 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“A-ah!”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“Put it away! Put it away! Please, [[player]]!”
+C:[[]]
+Unsure of just why Anastasia is so frightened, you motion to drop the Eye of Limitless Beholding into your bag.
+However, it seems similarly frightened of the commotion. It quickly hops down and slithers far away from you two.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_angry_blush")]]
+“You should not scare a girl like that, [[player]]! That creature was wiggling and moving about so strangely...”
+C:[[]]
+Anastasia lets out a relieved sigh.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“Forgive me. I know I spoke of my dream to become a veterinarian, but I must still overcome some fears beforehand.”
+“I am referring to what you might identify as creepy-crawlies, to be specific. Though I suppose that was a rather... unconventional example of one.”
+C:[[]]
+You apologize as well, telling Anastasia how you believed that the creature was interesting and, in a word, cool.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_stare")]]
+“...”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“Oh, I cannot help but laugh at such an explanation. Your kind is so strange—and I’m not referring to humans.”
+“Boys will be boys, I suppose.”
+C:[[]]
+Once again, it seems that some things stay the same no matter the dimension.
+T:[["ana_neutral"]]

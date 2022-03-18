@@ -1,0 +1,26 @@
+C:[[]]
+You take the [[itemName]] out from your bag and present it to Artistically Rendered Sphere...
+You place the Umbral Locket atop Artistically Rendered Sphere.
+A moment later, the gift falls off of your date’s smooth surface.
+*:ex:[[fadeBG("black", 2)]]
+As it makes contact with the ground below, the locket’s mechanism triggers, unleashing a cloud of darkness over the area.
+As you awkwardly try to navigate the darkness, you find yourself horribly disoriented by the magicks of the Umbral Locket’s power.
+You feel yourself bump into a smooth, round surface before falling onto the ground.
+A moment later, you feel a painful impact on your abdomen.
+Overwhelmed by its force, the wind is knocked out of you.
+As you flail about trying to free yourself, you feel the smooth surface of the object sitting on top of you.
+You realize you are underneath Artistically Rendered Sphere.
+Coated in darkness, you realize that this is a perspective you’ve never seen your date in before.
+Barely clinging onto your consciousness, your hands explore the perfect, smooth surface of Artistically Rendered Sphere.
+Not a thing feels out of place, and not a thing feels any different from the space you’d examined before.
+You become painfully aware of the imperfections of your own human form.
+Mechanical bone structure for movement...
+Asymmetrical placement of organs within...
+Vulnerability of extremities... fleeting nature of existence...
+Yet, despite this existential crisis, even more fascinating is the way both you and your date are completely unseen in this darkness.
+There are no shadows to cast, nor any light to bear... 
+In a way, you are equals in this dark plane of blindness.
+Unseen, unrendered.
+As you finally lose consciousness, you realize perhaps you are not so different after all...
+*:ex:[[medal(67997); hideUI(); hideImage(); pause(9); doubleFade("bg/white", "endcards/ARS_Endcard", 2, 0.5, 2)]]
+...

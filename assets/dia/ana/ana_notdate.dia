@@ -1,0 +1,53 @@
+C:[[]]
+You remind Anastasia that this is a study meeting rather than a date—just as she had stated earlier that day.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise_blush")]]
+“Ah, yes... that’s right.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“Forgive me, [[player]]. I seem to have misspoken.”
+C:[[]]
+The air has become tense. Did you say something wrong?
+Earlier, you felt that Anastasia was not ready for the romantic meeting you had in mind for you two. Perhaps that was a misunderstanding on your part?
+You want to say something... but what?
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“[[player]].”
+“You certainly are a fascinating one. I feel as though you are different from others whom I have met here.”
+“I can’t quite put my finger on why, but you intrigue me, [[player]].”
+C:[[]]
+*:ex:[[playMusic("music/reprise_01")]]
+You are listening to Anastasia when, suddenly, your attention is drawn to her eyes.
+As you look into them, you find everything else around you to be of no importance. Her eyes are the only sight you should focus on throughout all existence.
+...You feel strange. 
+You are feeling something similar to the previous dread you felt twice before: first when Anastasia was approaching you at her locker, then when she was about to bite you at the beginning of the night.
+However, something is fighting that feeling—something from the outside. 
+That foreign something tells you to calm down and accept what is happening. These are not your thoughts, and you fight them with all your might.
+...It is a losing battle.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“[[player]], are you alright? You don’t look well.”
+C:[[]]
+*:ex:[[fadeBG("bg/black", 2)]]
+You fall to the ground, shadows encroaching on your surroundings.
+C:[[]]
+Then, you look ahead at a lone figure, untouched by the darkness: Anastasia.
+Is she doing this?
+*:ex:[[boldFont()]]
+Anastasia is all you see.
+She would never—not on purpose.
+*:ex:[[boldFont()]]
+Anastasia is all you want. 
+Does she know that she is capable of unleashing such a terrifying ability?
+*:ex:[[boldFont()]]
+Anastasia is all you need.
+Finally, you give in.
+Maybe the idea of a vampire being a human’s Valentine is just unheard of. 
+However, this dynamic that you two now share—a powerful dark mistress and her mortal slave—perhaps this is what it means for your people to coexist?
+You are unsure of any other possibility. You have no need for one.
+*:ex:[[boldFont()]]
+Your only desire in this life and whatever existence may come next...
+*:ex:[[boldFont()]]
+...is to serve Mistress Anastasia.
+*:ex:[[medal(68073); hideUI(); hideImage(); pause(5); fadeBG("bg/white", 2)]]
+...

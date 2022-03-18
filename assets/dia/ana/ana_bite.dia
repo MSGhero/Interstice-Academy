@@ -1,0 +1,16 @@
+C:[[]]
+You let Anastasia know that she can bite you if she’d really like to, remarking how that’s what study buddies are for.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise_blush")]]
+“What...?!”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“...are you talking about?”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_embarrased")]]
+“Don’t say such things...”
+You assure Anastasia that you were kidding.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“...Maybe then my parents would give me some space.”
+T:[["ana_parents"]]

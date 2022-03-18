@@ -1,0 +1,18 @@
+C:[[]]
+You tell Anastasia that... well, you can’t really decide on an answer.
+There is so much mistreatment and strife among you all. And, yes, humanity always seems to find a way to prosper...
+...but at what cost, exactly?
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“My goodness... I had no idea. I was certainly expecting a ‘yes’ from you.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy_blush")]]
+“Perhaps you and I are more alike than I thought.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“You see, there is much strife among my people, as well. And yet, my parents remain proud of our kind. As for myself...”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]] 
+“Well, it is as I said: we are more alike than I thought.”
+“It is a strange feeling, is it not? To feel some sort of disdain not for who you are, but what you are.”
+T:[["ana_silence"]]

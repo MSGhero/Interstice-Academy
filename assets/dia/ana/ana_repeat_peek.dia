@@ -1,0 +1,5 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“You snuck a view earlier, yes? Through the cracks of my locker door.”
+“It’s alright. While I was initially quite offended, I feel that, well...”
+T:[["ana_repeat_end"]]

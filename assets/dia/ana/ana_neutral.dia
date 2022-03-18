@@ -1,0 +1,10 @@
+C:[[]]
+*:ex:[[playMusic("music/reprise_01")]]
+From there, the two of you discuss various topics: some concerning school, others concerning your differing homeworlds, and just about everything else in-between. 
+Nothing that either of you mention is particularly deep or personal, but you both enjoy the company that the other provides. 
+You begin to see in Anastasia not a romantic partner, but an ally in this multidimensional existence. 
+This seems to be a concept lost on figures such as Abraham Van Helsing and Bella Swan alike.
+Humans can be vampires’ enemies. Humans can be vampires’ lovers.
+Tonight, however, you discovered something quite significant: humans can be vampires’ friends.
+*:ex:[[medal(68060); hideUI(); hideImage(); pause(9); doubleFade("bg/white", "endcards/Ana_Endcard", 2, 0.5, 2)]]
+...

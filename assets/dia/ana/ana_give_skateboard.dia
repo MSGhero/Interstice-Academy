@@ -1,0 +1,46 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“Oh, it’s a... what is this?”
+C:[[]]
+You explain the concept of a skateboard to Anastasia.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“Ah, yes. I assumed it had to do with transportation due to the wheels. So humans use these regularly on your homeworld? You truly are a fascinating kind.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral_blush")]]
+“Well... while we’re both here...”
+“...would you perhaps assist me in using it?”
+C:[[]]
+It is clear to you that, though embarrassed in making her request, Anastasia is doing her best to act natural and play it cool.
+You decide that you should help her start using her gift.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“Ah, thank you. I’d hate for it to go to waste.”
+C:[[]]
+You teach Anastasia the basics of riding, turning, stopping, and staying balanced.
+Soon enough, she is speeding around like a pro. Anastasia seems to be a natural with the board.
+Finally, she slows down until, eventually, allowing herself to stop.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“M-my goodness! What fun this instrument is! It is quite a thrill to go so fast.”
+C:[[]]
+It seems that Anastasia has achieved a newfound joy in using your gift.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“Hmm...”
+C:[[]]
+You inquire about what is on Anastasia’s mind.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“It’s a tad embarrassing, but I suppose it’s only fair that I tell you. You did provide the gift, after all.”
+“I was thinking about how I might be able to stay on the board, where I to fly while riding. Is that possible? Can humans perform such feats?”
+C:[[]]
+You confirm to Anastasia that skateboard stunts are not only possible, but also highly praised on your homeworld. 
+Furthermore, you tell her about the various sporting events and festivals revolving around the acts.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“An entire festival for... what did you call them? Stunts?”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“I’m quite impressed. You must show me one sometime soon.”
+T:[["ana_neutral"]]

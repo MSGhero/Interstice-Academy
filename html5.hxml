@@ -1,0 +1,18 @@
+-cp source
+-D resourcesPath=assets
+
+-D windowSize=1280x720
+
+-D ecs.no_debug_output
+
+-lib heaps
+-lib ecs
+-lib haxeui-core
+-lib haxeui-heaps
+-lib hscript
+-lib newgrounds
+-lib stb_ogg_sound
+
+-js export/js/Valentine.js
+-main Main
+-debug

@@ -1,0 +1,14 @@
+C:[[]]
+You ask Anastasia what she means by that.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“My... my parents?” 
+“Forgive my shock, but no one has ever asked me about them.”
+C:[[]]
+It seems that Anastasia is pleasantly surprised by your interest in her background.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“My parents are very... well...”
+“Tell me, [[player]]: are you proud to be human?”
+T:Tell her yes.[["ana_yes"]]
+T:Tell her you don’t really know.[["ana_dont_know"]]

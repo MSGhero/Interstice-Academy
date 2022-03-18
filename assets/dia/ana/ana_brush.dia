@@ -1,0 +1,28 @@
+C:[[]]
+Although you were mere seconds away from becoming a human raisin, you assure Anastasia that you aren’t upset with her.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“You're too kind. To be honest, I tend to study by myself, so coming to a study meeting had me quite nervous. I couldn’t eat a thing before I fell asleep for the day...”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“...which brings me to my tardiness. My kind isn’t able to walk about freely during the day.
+C:[[]]
+You tell Anastasia that you only know the basics when it comes to vampires.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“That makes sense. Bram Stoker’s Dracula novel was a good starting point—for you humans, at least. After that, it all sort of got out of control.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_embarrased")]]
+“The movies, the video games—and who could forget those teen romance novels? I know many of them don’t condemn our kind, but...”
+C:[[]]
+But...?
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“They could at least be less cheesy.”
+C:[[]]
+Anastasia seems to have relaxed a little, as have you.
+You realize that you’ve never actually seen her smile like this before. It’s a refreshing sight.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“At least, that’s what my parents always say.”
+T:[["ana_parents"]]

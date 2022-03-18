@@ -1,0 +1,7 @@
+C:[[]]
+*:ex:[[playMusic("music/reprise_01")]]
+With the gift exchange now complete, you recognize things will be wrapping up shortly.
+You decide to...
+T:Try to get “closer” to your date.[["ars_closer"]]
+T:Make idle conversation.[["ars_idle"]]
+T:Do nothing.[["ars_nothing0"]]

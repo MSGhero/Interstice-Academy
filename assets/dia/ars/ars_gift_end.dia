@@ -1,0 +1,6 @@
+C:[[]]
+*:ex:[[showImage("ars/ARS_Neutral")]]
+After analyzing your gift, you realized you have received a hammer and chisel set, replete with a small slab of marble.
+T:Offer words of gratitude, expressing how much you love the gift.[["ars_gift_gratitude"]]
+T:Offer a simple “thank you”.[["ars_gift_thanks"]]
+T:Say Nothing[["ars_gift_nothing"]]

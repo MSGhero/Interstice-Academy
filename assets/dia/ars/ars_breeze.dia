@@ -1,0 +1,16 @@
+C:[[]]
+A cool interdimensional breeze blows through the air. You formally sit yourself at the date spot with Artistically Rendered Sphere.
+*:ex:[[showImage("ars/ARS_Top")]]
+As you sit down, your perspective changes, offering you a new angle from which to gaze upon Artistically Rendered Sphere.
+The shadowy overcast of the great tree above reveals little bastions of light resting atop Artistically Rendered Sphere that you could not perceive before.
+Patches of light and shadow dance atop Artistically Rendered Sphere as the wind bellows through the branches of the tree.
+The already magnificent geometry of this dashing entity is only further accentuated by these beautiful elements of the area around you both.
+As a dash of light manages to reflect into your eye, you avert your gaze for a moment.
+As you look away, you notice something on the ground beside Artistically Rendered Sphere.
+A perfectly geometric package, similar in nature to Artistically Rendered Sphere. 
+In fact, there’s only one piece of this perfect geometry that deviates from the package’s design...
+Nestled atop the package is a Valentine’s card, similar to the one you placed in the locker...
+You decide to...
+T:Reach for the package[["ars_package_reach"]]
+T:Ask about the package[["ars_package_ask"]]
+T:Pretend you didn’t notice the package[["ars_package_ignore"]]

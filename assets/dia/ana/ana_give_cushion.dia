@@ -1,0 +1,33 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“A pillow?”
+“Hmm... it is rather luxurious. And fluffy, as well. Thank you, [[player]]. I’ll ensure that it is put to good use.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“You may have noticed that I tend to be quite tired during our classes.”
+“You see, my kind is nocturnal, so we sleep during the day. However, with classes taking place during the day...”
+You assure Anastasia that you get what she means.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“Yes, it becomes quite difficult. Thankfully, the campus has sleep stations for any who may need them. They are very convenient for us nocturnal beings.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“With this, I’ll be able to take a fine nap wherever I go. So I once again thank you, [[player]].”
+It seems that Anastasia likes your (slightly unconventional) gift.
+Just then, a thought pops into your head: if vampires are nocturnal and are averse to sunlight, how does Anastasia get from class to class?
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“Why, through the underground corridors, of course.”
+You tell Anastasia that you’ve never heard of these corridors.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise")]]
+“Really? Wait...”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“It seems like someone wasn’t paying attention at orientation. Shame on you, [[player]].”
+You recollect the refreshing nap you took during the informative event.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“Well then, how fitting! Our conversation has come full circle, yes?”
+You share a laugh together. It’s a pleasant experience, despite it being at your expense.
+T:[["ana_neutral"]]

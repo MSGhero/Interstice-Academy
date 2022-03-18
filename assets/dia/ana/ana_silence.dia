@@ -1,0 +1,27 @@
+C:[[]]
+There is a brief silence. However, much like when Anastasia saw your card, it feels eternal.
+A thought crosses your mind, and you seem to speak it without thinking: what does Anastasia want to be, then?
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“You would assume a doctor, yes? After all, I am a medical student.”
+“However, that is not all I study.”
+“Much of my free time goes into studying veterinary practices for the animals found on my homeworld.”
+“I’m certain you have noticed how tired I am during class. I know how unhealthy it is to overwork myself.”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“And my parents... they don’t mind what I do, as long as my grades stay up. But one day, I’ll have to decide which path I must walk...”
+“...and that frightens me.”
+C:[[]]
+You understand Anastasia’s plight and empathize with her. 
+You recall Principal Harkness’s earlier words and substitute them with your own: no matter the dimension, parents just don’t understand.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy")]]
+“You make me laugh, [[player]]. Thank you.”
+C:[[]]
+Your comment seems to have lightened the mood once again. Perhaps now is time to give Anastasia your gift.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise_blush")]]
+“You have a gift... for me?”
+C:[[]]
+You take the [[itemName]] out from your bag and present it to Anastasia...
+T:[["ana_give_" + item]]

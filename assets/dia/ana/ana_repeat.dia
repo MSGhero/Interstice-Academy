@@ -1,0 +1,32 @@
+C:[[]]
+You ask Anastasia what she just said.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“Why, I said I would have been on time for our—”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise_blush")]]
+“!”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_embarrased")]]
+“...”
+“...d-date.”
+C:[[]]
+You’re positively stunned.
+Until this moment, you believed that Anastasia misinterpreted your Valentine. However, it seems that she completely understood from the beginning.
+Not only that, but she did, in fact, repeat what you asked of her. Quiet as it may have been, it proves something quite significant.
+It seems that Anastasia has conquered a bit of that shyness that she had let rule her life until now.
+It was a tiny bit—perhaps minuscule is a more appropriate word—but she spoke up about something that interests her: you.
+Understanding this, you tell Anastasia that she doesn’t have to hide, and that she has achieved something great on this night. You are happy for her, and you make this known.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_embarrased")]]
+“...”
+“...[[player]].”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy_blush"); playMusic("music/reprise_01")]]
+“Follow me. There’s something that I want you to see.”
+C:[[]]
+Slightly confused, you do as Anastasia says.
+C:[[]]
+*:ex:[[fadeBG("bg/hallway", 2)]]
+Anastasia takes you to a familiar area: the hallway where you spoke earlier. She leads you to her locker.
+T:[["ana_repeat_" + anastasia]]

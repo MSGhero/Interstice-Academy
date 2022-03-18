@@ -1,0 +1,11 @@
+C:[[]]
+You affirm that you are proud of your kind, for better or for worse.
+That, although there is much mistreatment and strife among you all, humanity always seems to find a way to prosper.
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“As I expected. I suppose it is only natural.”
+“You see, there is much strife among my people, as well. And yet, my parents remain proud of our kind. As for myself...”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_sad")]]
+“It is a strange feeling—to feel some sort of disdain not for who you are, but what you are.”
+T:[["ana_silence"]]

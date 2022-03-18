@@ -1,0 +1,18 @@
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_surprise_blush")]]
+“My... my goodness, [[player]]...”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_neutral")]]
+“This locket... do you understand what it does? When you rotate the gem, the locket emits a strong shadow that surrounds the wearer, no matter the environment in which they may be.”
+“Therefore, if the wearer happens to be a vampire, like me, they’d be able to walk about during the daytime. The sun’s rays are essentially blocked off.”
+“Had I possessed such an object before now...”
+C:[["Anastasia"]]
+*:ex:[[showImage("ana/Anastasia_happy_blush")]]
+“...I’d have been on time for our date.”
+C:[[]]
+*:ex:[[medal(68123)]]
+This seems to be the perfect gift for Anastasia.
+...Hold on.
+How did Anastasia just refer to this rendezvous between you two?
+T:Ask Anastasia to repeat that last part.[["ana_repeat"]]
+T:Tell Anastasia that this isn’t a date.[["ana_notdate"]]

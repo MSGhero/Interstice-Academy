@@ -1,0 +1,12 @@
+C:[[]]
+You decide to do nothing after exchanging gifts, sitting idly opposite your date.
+As you stare at Artistically Rendered Sphere, you notice that together, along with your table, the two of you have cast a very impressive shadow over The Bowery.
+Though you yourself are not rendered in the same way, you recognize you are both quite picturesque in this moment.
+Indeed, your respective stoicism only seems to be further compounded by the other’s.
+Words do not always need to be exchanged when in one another’s company.
+As the time passes, you find this more and more to be the case.
+Though you do not outwardly show it, you feel a true mutual understanding between you and Artistically Rendered Sphere.
+Perhaps this marks the beginning of something beautiful...
+Perhaps... you two may even share an artistically rendered future as human and sphere...
+*:ex:[[medal(67997); hideUI(); hideImage(); pause(9); doubleFade("bg/white", "endcards/ARS_Endcard", 2, 0.5, 2)]]
+...
